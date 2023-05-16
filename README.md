@@ -1,6 +1,7 @@
 ## Features
 
 - [Chrome Extension Manifest V3](https://developer.chrome.com/docs/extensions/mv3/intro/)
+- [Webextension Polyfill](https://github.com/mozilla/webextension-polyfill)
 - [Webpack 5](https://webpack.js.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [TailwindCss](https://tailwindcss.com/)
